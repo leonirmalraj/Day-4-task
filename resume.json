@@ -1,0 +1,55 @@
+//Create your own resume data in JSON format
+
+{
+  "name": "Leo Nirmalraj",
+  "contact": {
+    "email": "leonirmalraj.developer@gmail.com",
+    "phone": "9999999999",
+    "address": "123 Main St, City, State, 600001"
+  },
+  "summary": "Experienced software developer with a strong background in web development and a passion for creating efficient and maintainable code.",
+  "experience": [
+    {
+      "position": "Senior Web Developer",
+      "company": "TechCorp Inc.",
+      "location": "City, State",
+      "startDate": "January 2019",
+      "endDate": "Present",
+      "responsibilities": [
+        "Led a team of developers in creating and maintaining web applications.",
+        "Developed and implemented front-end and back-end solutions.",
+        "Collaborated with clients to understand and fulfill project requirements."
+      ]
+    },
+    {
+      "position": "Web Developer",
+      "company": "WebTech Solutions",
+      "location": "City, State",
+      "startDate": "June 2015",
+      "endDate": "December 2018",
+      "responsibilities": [
+        "Designed and developed responsive and user-friendly websites.",
+        "Optimized website performance and improved loading times.",
+        "Collaborated with cross-functional teams to deliver projects on time."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "University Name",
+      "location": "City, State",
+      "graduationDate": "May 2015"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "HTML/CSS",
+    "React",
+    "Node.js",
+    "SQL",
+    "Git",
+    "Agile Development",
+    "Problem Solving"
+  ]
+}
